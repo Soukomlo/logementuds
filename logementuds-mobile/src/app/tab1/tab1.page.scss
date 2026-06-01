@@ -1,0 +1,45 @@
+.hero {
+  text-align: center;
+  padding: 30px 16px 20px;
+
+  h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--ion-color-primary);
+    margin-bottom: 8px;
+  }
+
+  p {
+    font-size: 0.95rem;
+    color: var(--ion-color-medium);
+  }
+}
+
+ion-button {
+  margin: 8px 0;
+}
+
+.stats {
+  margin: 20px 0;
+
+  .stat-box {
+    text-align: center;
+    background: var(--ion-color-light);
+    border-radius: 12px;
+    padding: 12px 4px;
+    margin: 4px;
+
+    h2 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--ion-color-primary);
+      margin: 0;
+    }
+
+    p {
+      font-size: 0.75rem;
+      color: var(--ion-color-medium);
+      margin: 4px 0 0;
+    }
+  }
+}
