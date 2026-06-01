@@ -1,0 +1,7 @@
+{
+  "name": "logementuds-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
